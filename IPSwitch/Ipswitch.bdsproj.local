@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/05/24 09:28:46.469.cpp,C:\Documents and Settings\sdemarch\Mes documents\Projets Borland Studio\Unit1.cpp=C:\Documents and Settings\sdemarch\Mes documents\Borland Studio Projects\Orange IP\Unit1.cpp</Transaction>
+    <Transaction>2007/05/24 09:28:46.469.h,C:\Documents and Settings\sdemarch\Mes documents\Projets Borland Studio\Unit1.h=C:\Documents and Settings\sdemarch\Mes documents\Borland Studio Projects\Orange IP\Unit1.h</Transaction>
+    <Transaction>2007/05/24 09:28:46.469.dfm,C:\Documents and Settings\sdemarch\Mes documents\Projets Borland Studio\Unit1.dfm=C:\Documents and Settings\sdemarch\Mes documents\Borland Studio Projects\Orange IP\Unit1.dfm</Transaction>
+    <Transaction>2007/05/24 09:28:47.938.bdsproj,C:\Documents and Settings\sdemarch\Mes documents\Projets Borland Studio\Project1.bdsproj=C:\Documents and Settings\sdemarch\Mes documents\Borland Studio Projects\Orange IP\Project1.bdsproj</Transaction>
+    <Transaction>2007/05/24 12:54:08.908.bdsproj,C:\Documents and Settings\sdemarch\Mes documents\Borland Studio Projects\Orange IP\Project1.bdsproj=C:\Documents and Settings\sdemarch\Mes documents\Borland Studio Projects\Orange IP\OrangeIP.bdsproj</Transaction>
+    <Transaction>2007/05/25 09:28:59.957.cpp,C:\Documents and Settings\sdemarch\Mes documents\Borland Studio Projects\Orange IP\ABOUT.cpp=</Transaction>
+    <Transaction>2007/05/25 09:28:59.957.dfm,C:\Documents and Settings\sdemarch\Mes documents\Borland Studio Projects\Orange IP\ABOUT.dfm=</Transaction>
+    <Transaction>2007/12/28 18:55:29.875.bdsproj,C:\Documents and Settings\ducseb\Bureau\Orange IP\Orange IP\OrangeIP.bdsproj=C:\Documents and Settings\ducseb\Bureau\Orange IP\Orange IP\Ipswitch.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
